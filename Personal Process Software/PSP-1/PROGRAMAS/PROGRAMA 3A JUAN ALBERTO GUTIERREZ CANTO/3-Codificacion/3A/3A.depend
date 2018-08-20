@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459795691 source:c:\users\equipo\documents\personal process software\programa 3a juan alberto gutierrez canto\3-codificacion\3a\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+

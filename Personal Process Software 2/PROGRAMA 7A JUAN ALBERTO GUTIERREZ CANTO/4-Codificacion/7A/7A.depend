@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1465969799 source:c:\users\equipo\documents\proceso personal de software 2\programa 7a juan alberto gutierrez canto\3-codificacion\7a\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+	<iostream>
+	<stdlib.h>
+	<malloc.h>
+	<math.h>
+	<stdio.h>
+	<cstdlib>
+

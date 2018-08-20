@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1457742958 source:c:\users\equipo\documents\personal process software\4a\main.cpp
+	<cstdlib>
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<iostream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1468992093 source:c:\users\equipo\documents\psp\personal process software 2\programa 9a juan alberto gutierrez canto\4-codificacion\9a\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<malloc.h>
+	<math.h>
+

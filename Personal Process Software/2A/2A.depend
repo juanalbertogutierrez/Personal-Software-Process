@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1455228225 source:c:\users\equipo\documents\personal process software\2a\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+
